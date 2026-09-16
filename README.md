@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 · qIvKfFkD -->
-## Notification 1/2
-Round: Round 1
-To: onepickygirl21@aol.com, onesweetdrm@yahoo.com
-At: 2026-09-16 19:13:36
-Id: qIvKfFkD
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: oneuncannyman@yahoo.com, onica79921@aol.com
+At: 2026-09-16 19:13:49
+Id: 0ZXJiIhE
